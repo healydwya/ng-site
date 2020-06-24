@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "motel";
+  src: url("./motel.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "library";
+  src: url("./library.ttf") format("opentype");
+}
